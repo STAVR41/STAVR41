@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Павел
 =============================================================================================================================
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&weight=600&size=42&pause=1000&color=4F209A&background=FF000000&multiline=true&width=700&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB!;+%D0%AF+Frontend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=62&pause=1000&color=4F209A&background=FF000000&width=700&height=80&lines=Hi%2C+my+name+is+Pavel!;Nice+to+meet+you!;+I'm+Frontend+Developer!" alt="Typing SVG" /></a>
 
 Я Frontend developer
 --------------------
