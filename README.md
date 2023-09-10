@@ -57,6 +57,11 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="40" height="40" alt="Sketch" />
 </div>
 
+---
+
+### :jack_o_lantern: CodeWars :jack_o_lantern:
+
+[![codewars](https://www.codewars.com/users/STAVR41/badges/large)](https://www.codewars.com/users/STAVR41) 
 
 
 - 🔭 I’m currently working on ...
