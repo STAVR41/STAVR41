@@ -2,7 +2,8 @@
 =============================================================================================================================
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=62&pause=1000&color=DADADA&background=FF000000&width=700&height=80&lines=Hi%2C+my+name+is+Pavel!;Nice+to+meet+you!;+I'm+Frontend+Developer!" alt="Typing SVG" /></a>
 
-Я Frontend developer
+Я Frontend developer ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 --------------------
 
 * 🌍  Живу на Камчатке Петропавловск-Камчатский
