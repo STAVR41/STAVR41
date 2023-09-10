@@ -2,7 +2,7 @@
 =============================================================================================================================
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=62&pause=1000&color=DADADA&background=FF000000&width=700&height=80&lines=Hi%2C+my+name+is+Pavel!;Nice+to+meet+you!;+I'm+Frontend+Developer!" alt="Typing SVG" /></a>
 
-### Я Frontend developer
+### Я Frontend developer :heart:
 
 --------------------
 
@@ -23,10 +23,10 @@
 <div>
   <a href="https://www.github.com/STAVR41" target="_blank">
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="gitHub" />
-  </a>
+  </a>  
   <a href="http://www.instagram.com/pavelsharshnev" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="instagram" /> 
-  </a>
+  </a>  
   <a href="https://t.me/STAVR41" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
   </a>
